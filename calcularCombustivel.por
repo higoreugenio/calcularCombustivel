@@ -20,10 +20,10 @@ programa
 		escreva("-------------------------------------------------------------------", "\n")
 		
 		consumoTotal = distancia / consumoMedio
-		// Divide o valor distancia pelo consumo médio do carro
+		// Divide o valor distancia pelo consumo médio do veículo
 	
 		valorCombustivel = consumoTotal * litroCombustivel
-		// Encontrando o valor do consumo total do carro, multiplica pelo valor do litro do combustível
+		// Encontrando o valor do consumo total do veículo, multiplica pelo valor do litro do combustível
 		
 		valorCombustivel = mat.arredondar(valorCombustivel, 2)
 		consumoTotal = mat.arredondar(consumoTotal, 2)
@@ -40,7 +40,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1136; 
+ * @POSICAO-CURSOR = 718; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
